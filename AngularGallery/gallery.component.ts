@@ -1,5 +1,5 @@
 // Angular Gallery v1.0
-// https://github.com/JulianStoev/AngularGallery
+// https://github.com/JulianStoev
 
 import { AfterViewInit, ChangeDetectionStrategy, Component, ElementRef, EventEmitter, Input, NgZone, OnDestroy, Output, ViewChild } from '@angular/core';
 import { BehaviorSubject } from 'rxjs/internal/BehaviorSubject';
